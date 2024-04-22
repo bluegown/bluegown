@@ -1,10 +1,12 @@
 # bluegown
 
-안녕하세요 ! 저는 Alan입니다. 
+안녕하세요 ! 저는 Alan입니다. 개발자로서의 역량을 꾸준히 키워보고자 합니다:)
 <br />
-Nice to meet you and Thank you for watch my Github.
+Nice to meet you:)
 <br />
-よろしくお願いします !
+よろしくお願いします ! 頑張ります.
+<br />
+你好。
 <br />
 <br />
 <br />
