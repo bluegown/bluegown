@@ -40,10 +40,11 @@ Nice to meet you 😄
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 </div>
 
-#### I've used it before.
+#### I've learned it before.
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white">
   
   
 </div>
