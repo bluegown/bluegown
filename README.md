@@ -22,7 +22,6 @@ Nice to meet you 😄
 ✅ SQLD
 <br />
 ✅ 정보처리기사(~ing)
-
 <br />
 <br />
 <br />
