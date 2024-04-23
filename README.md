@@ -12,7 +12,7 @@ Nice to meet you 😄
 <br />
 ## My rules
 
-✅ 필요 이상의 비교는 독입니다.<br />✅
+✅ 필요 이상의 비교는 독입니다.<br />
 ✅ I'm on my way<br />
 ✅ 최선을 다하고자 노력합니다.<br />
 <br />
@@ -20,6 +20,7 @@ Nice to meet you 😄
 <br />
 ## License
 ✅ SQLD
+<br />
 ✅ 정보처리기사(~ing)
 
 <br />
