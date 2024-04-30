@@ -21,7 +21,7 @@ Nice to meet you 😄
 ## License
 ✅ SQLD
 <br />
-✅ 정보처리기사(~ing)
+✅ 정보처리기사
 <br />
 <br />
 <br />
