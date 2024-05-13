@@ -18,6 +18,15 @@ Nice to meet you 😄
 <br />
 <br />
 <br />
+## Degree
+<br />
+🏫 세종대학교 컴퓨터공학과 전공
+<br />
+🏫 세종대학교 경제학과 복수전공 (2018.03 ~ 2025.02)
+<br />
+<br />
+<br />
+
 ## License
 ✅ SQLD
 <br />
