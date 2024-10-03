@@ -27,9 +27,9 @@ https://github.com/100-hours-a-week/alan-til
 <br />
 ## Degree
 <br />
-🏫세종대학교 컴퓨터공학과 전공 
+🏫OO대학교 컴퓨터공학과 전공 
 <br />
-🏫세종대학교 경제학과 전공
+🏫OO대학교 경제학과 전공
 <br />
 <br />
 <br />
