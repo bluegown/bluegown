@@ -10,9 +10,7 @@ Nice to meet you 😄
 <br />
 <br />
 <br />
-## TIL 작성란
-<br />
-https://github.com/100-hours-a-week/alan-til
+
 <br />
 <br />
 <br />
